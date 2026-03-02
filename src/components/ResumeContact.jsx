@@ -15,9 +15,9 @@ function ResumeContact() {
           </div>
           <div className="col-md-6 mb-4">
             <h5>Contact Information</h5>
-            <p><strong>Email:</strong> <a href="mailto:Kyllbermal2004@gmail.  ">Kyllbermal2004@gmail.com</a></p>
-            <p><strong>Phone:</strong> 09355476332</p>
-            <p><strong>GitHub:</strong> <a href="https://github.com/Kyliee2004" target="_blank" rel="noreferrer">https://github.com/Kyliee2004</a></p>
+            <p><strong>Email:</strong> <a href="mailto:Magasovincent5@gmail.  ">Magasovincent5@gmail.com</a></p>
+            <p><strong>Phone:</strong> 09096641541</p>
+            <p><strong>GitHub:</strong> <a href="https://github.com/VincentMag-aso1" target="_blank" rel="noreferrer">https://github.com/VincentMag-aso1</a></p>
           </div>
         </div>
       </div>
